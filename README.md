@@ -22,7 +22,7 @@ tmux source-file ~/.tmux.conf
 ## 状态栏上有什么
 
 ```
- 🐰 xiaowu  3 │ ✦ 2:claude  · 0:bash │        2.0G  08-21 17:27  la-warren
+ 🐰 xiaowu  4  · 0:fog  ✎ 1:notes  ✦ 2:claude  ▸ 3:log            1.3G  08-21 17:50  la-warren
 ```
 
 - **兔头后面的数字** = 这只会话开着几个窗口。数字变大而你没印象，多半是有窗口用完忘了关。
