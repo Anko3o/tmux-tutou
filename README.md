@@ -66,4 +66,4 @@ set -g renumber-windows on
 
 ## License
 
-MIT
+CC BY-NC-SA 4.0 © 2026 Anko3o, rime & Philo。二改、借鉴请注明原仓库地址，不得商用，衍生作品同协议。
